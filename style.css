@@ -39,3 +39,8 @@ li a:hover:not(.active) {
     background-color: #555;
     color: white;
 }
+
+.FotoFloris div {
+	top: 8px;
+	right: 8px;
+}
